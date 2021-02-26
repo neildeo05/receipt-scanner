@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+#python ./src/ocr.py ./inputs/tmp.png ./outputs/output.png
+python ./src/text.py ./working-image.png
