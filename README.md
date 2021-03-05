@@ -7,7 +7,7 @@
    ``` console
    $ <package-manager> install tesseract
    ```
-   - [On Windows][https://medium.com/@ahmetxgenc/how-to-use-tesseract-on-windows-fe9d2a9ba5c6]
+   - [On Windows](https://medium.com/@ahmetxgenc/how-to-use-tesseract-on-windows-fe9d2a9ba5c6)
 
 ## After installing Tesseract:
 ```console
