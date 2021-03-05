@@ -1,7 +1,7 @@
 # Receipt Scanner for portable fridge
 
 
-# Quickstart:
+## Quickstart:
 ## Install Tesseract 
    - On Mac(Homebrew)/Linux:
    ``` console
