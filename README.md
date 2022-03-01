@@ -1,4 +1,4 @@
-# Receipt Scanner for portable fridge
+# Receipt Scanner to scan grocery receipts
 
 
 ## Quickstart:
